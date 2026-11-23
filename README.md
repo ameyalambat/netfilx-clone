@@ -10,7 +10,7 @@ Experience this website through https://netflix-clone-a5295.firebaseapp.com/
 
 - Clone this repository
 ```bash
-git clone https://github.com/ameyalambat128/netfilx-clone.git
+git clone https://github.com/ameyalambat/netfilx-clone.git
 ```
 :warning: Please clone the main branch only!
 
